@@ -16,9 +16,13 @@ Is project mein maine niche diye gaye concepts ko implement kiya hai:
 * `Bank.java`: Simple banking system implementation.
 * `Abstraction.java`: Example of abstract classes.
 * `Interface.java`: Example of using interfaces.
+* Bank.java: Demonstrates encapsulation with private variables and getters/setters.
+* Student.java: Uses constructors and static methods for data handling.
 
 ## 🛠️ How to Run
 1. Is repository ko clone karein.
 2. Terminal mein `javac FileName.java` command se compile karein.
 3. `java FileName` command se run karein.
-4.
+4.Clone the repo: git clone [your-repo-link]
+5.Compile: javac Student.java
+6. Run: java Student
